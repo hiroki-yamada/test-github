@@ -8,6 +8,6 @@ Note: Currently, task message supports only the following formats.
 </font>
 
 ```diff
-- Note: Currently, task message supports only the following formats. -
--        "Go to the AAA,  grasp the BBB and come back here"          -
+---  Note: Currently, task message supports only the following formats.  ---
+---        "Go to the AAA,  grasp the BBB and come back here"            ---
 ```
