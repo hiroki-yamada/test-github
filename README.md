@@ -28,8 +28,8 @@ See also [wiki page](wiki/Home.md).
 
 1. Launch a command prompt.
 1. For example, in the case of Notepad, set the window name as the first argument and execute a command like the following:
-~~~
-> cd DisableCloseButton\bin\Release
-> DisableCloseButton "TestDoc.txt - Notepad"
-~~~
+    ~~~
+    > cd DisableCloseButton\bin\Release
+    > DisableCloseButton "TestDoc.txt - Notepad"
+    ~~~
 1. Please use the Task Manager to close the window.
